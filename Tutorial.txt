@@ -1,0 +1,14 @@
+1. Install Git terlebih dahulu
+2. Jika sudah install install Git maka install NodeJS
+3. Setelah selesai install NodeJS buka folder Game Tebak Angka
+4. Klik kanan pada tempat kosong didalam folder Game Tebak Angka
+5. Klik Git Bash
+
+Setelah didalam Git Bash
+1. Ketik command 'cmd'
+2. Ketik command 'node Tebak.js angka1 angka 2 angka3'
+catatan : angka1 2 dan 3 itu adalah angka yang digunakan untuk nebak 3 angka berturut-turut dengan rentang 1-10
+selesai...
+
+catatan :
+command tanpa tanda kutip
